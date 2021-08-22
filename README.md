@@ -45,7 +45,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
 [twitter]: https://twitter.com/Rizwan_SiDdiqu1
-[instagram]: https://www.instagram.com/rizwan_siddiqui_official_/
+[instagram]: https://www.instagram.com/RizwansidDiqu1/
 [linkedin]: https://www.linkedin.com/in/rizwan-siddiqui-377701209/
 
 
