@@ -6,7 +6,7 @@
 
 
 
-## I'm a Bug Hunter, CTF Player,Front-end web development 🕸️,!!
+## I'm a Bug Hunter, X CTF Player 🕸️,!!
 
 - 👀 I’m interested in Cyber security...
 - 🌱 I’m currently learning Cyber Security 
