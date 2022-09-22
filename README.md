@@ -6,7 +6,7 @@
 
 
 
-## I'm a Bug Hunter, X CTF Player 🕸️,!!
+## #InfoSec
 
 - 👀 I’m interested in Cyber security...
 - 🌱 I’m currently learning Cyber Security 
